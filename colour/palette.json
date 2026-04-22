@@ -1,0 +1,56 @@
+{
+  "brand": "keveko",
+  "brandFullName": "Keveko Financial Planners",
+  "source": "Canonical palette from guidelines/keveko-brand-guide.pdf (page 8), confirmed by internal brand notes. Pantone references are available in the PDF.",
+  "colours": {
+    "ocean": {
+      "hex": "#001f49",
+      "rgb": [0, 31, 73],
+      "cmyk": [100, 89, 38, 46],
+      "role": "primary",
+      "usage": "Body text (never plain black). Primary dark background."
+    },
+    "sky": {
+      "hex": "#439bbb",
+      "rgb": [67, 155, 187],
+      "cmyk": [71, 25, 18, 0],
+      "role": "primary",
+      "usage": "Primary background. Pairs with Ocean or White for text."
+    },
+    "misty-rose": {
+      "hex": "#f6e2e0",
+      "rgb": [246, 226, 224],
+      "cmyk": [2, 12, 7, 0],
+      "role": "secondary",
+      "usage": "Secondary background. Body text only when on Ocean background."
+    },
+    "candy": {
+      "hex": "#fe3725",
+      "rgb": [254, 55, 37],
+      "cmyk": [0, 91, 91, 0],
+      "role": "secondary-accent",
+      "usage": "Accent only; error states. Never as a background or body text."
+    },
+    "maroon": {
+      "hex": "#b71d21",
+      "rgb": [183, 29, 33],
+      "cmyk": [19, 100, 100, 10],
+      "role": "secondary-accent",
+      "usage": "Accent only. Never as a background or body text."
+    },
+    "white": {
+      "hex": "#ffffff",
+      "rgb": [255, 255, 255],
+      "cmyk": [0, 0, 0, 0],
+      "role": "primary",
+      "usage": "Primary background. Reversed text colour (body text only on Ocean background)."
+    }
+  },
+  "usageRatio": {
+    "ocean": 0.50,
+    "sky": 0.30,
+    "misty-rose": 0.10,
+    "candy": 0.05,
+    "maroon": 0.05
+  }
+}

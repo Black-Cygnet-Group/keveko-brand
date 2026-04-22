@@ -1,0 +1,10 @@
+/* Keveko brand colours. Mirror palette.json and tailwind.colours.ts — change all three together. */
+
+:root {
+  --keveko-ocean:       #001f49;
+  --keveko-sky:         #439bbb;
+  --keveko-misty-rose:  #f6e2e0;
+  --keveko-candy:       #fe3725;
+  --keveko-maroon:      #b71d21;
+  --keveko-white:       #ffffff;
+}
