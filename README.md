@@ -6,6 +6,14 @@ Centralised brand assets for **Keveko Financial Planners** (FSP 43268), a subsid
 
 Keveko is a modern financial planning brokerage that exists to make quality financial advice accessible to everyday South Africans. The brand helps people reduce anxiety, build financial confidence, and create long-term security by delivering honest, human-centred advice around insurance and investments. It stands for accessibility, clarity, and expertise.
 
+## Documentation
+
+Three guides at the repo root cover different audiences — read whichever applies:
+
+- [`brand-assets-overview.md`](./brand-assets-overview.md) — non-technical overview of what this is and why it exists, for anyone in the business.
+- [`brand-maintenance.md`](./brand-maintenance.md) — step-by-step guide for the marketing / brand team on how to update assets (no coding required).
+- [`brand-assets-technical-guide.md`](./brand-assets-technical-guide.md) — technical reference for developers and AI engineers, including code examples and ready-to-paste AI prompt blocks.
+
 ## Using these assets in an app
 
 Every file in this repo is automatically available on jsDelivr. The URL pattern is:

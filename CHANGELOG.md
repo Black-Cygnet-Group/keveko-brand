@@ -3,6 +3,16 @@
 All notable changes to the Keveko brand assets repository will be documented here.
 Newest entries at the top. Versions follow [Semantic Versioning](https://semver.org/).
 
+## v0.1.2 — 2026-04-22
+
+**Added:**
+
+- Three audience-specific handover docs at the repo root:
+  - [`brand-assets-overview.md`](./brand-assets-overview.md) — non-technical overview for the whole business.
+  - [`brand-maintenance.md`](./brand-maintenance.md) — step-by-step guide for the marketing / brand team.
+  - [`brand-assets-technical-guide.md`](./brand-assets-technical-guide.md) — technical reference with code examples and AI prompting.
+- README now links to all three from a new "Documentation" section.
+
 ## v0.1.1 — 2026-04-22
 
 **Fixed:**
