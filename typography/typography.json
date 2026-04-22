@@ -1,0 +1,39 @@
+{
+  "brand": "keveko",
+  "source": "guidelines/keveko-brand-guide.pdf (page 9) and internal brand notes.",
+  "families": {
+    "primary": {
+      "name": "Museo Sans",
+      "role": "primary",
+      "usage": "All brand communication — advertising, brochures, printed and digital marketing material.",
+      "weights": [300, 400, 500, 700, 900],
+      "source": "Commercial. Available via Adobe Fonts or MyFonts. See fonts.md."
+    },
+    "webFallback": {
+      "name": "Century Gothic",
+      "role": "web-fallback",
+      "usage": "Fallback when Museo Sans is unavailable or fails to load. Widely system-installed.",
+      "weights": [400, 700],
+      "source": "Widely licensed; typically system-available. See fonts.md."
+    },
+    "accent": {
+      "name": "Feeling Passionate",
+      "role": "accent",
+      "usage": "Use sparingly, to add a touch of character. Never for body text or headings.",
+      "weights": [400],
+      "source": "To be confirmed. See OPEN-QUESTIONS.md item 3."
+    }
+  },
+  "scaleExample": {
+    "note": "Reference print scale from the brand guide. Maintain the relative hierarchy when scaling for digital.",
+    "heading":    { "sizePt": 30, "caseStyle": "uppercase", "weight": 700 },
+    "subheading": { "sizePt": 14, "weight": 500 },
+    "body":       { "sizePt": 10, "weight": 400 },
+    "pullQuote":  { "sizePt": 13, "weight": 400 }
+  },
+  "rules": [
+    "Body text is always Ocean (#001f49), never plain black.",
+    "Keep kerning consistent and spacious.",
+    "Maintain the hierarchy ratio when scaling to digital sizes."
+  ]
+}
