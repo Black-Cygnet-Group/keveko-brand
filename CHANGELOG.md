@@ -3,6 +3,12 @@
 All notable changes to the Keveko brand assets repository will be documented here.
 Newest entries at the top. Versions follow [Semantic Versioning](https://semver.org/).
 
+## v0.1.1 — 2026-04-22
+
+**Fixed:**
+
+- Replaced the brand guide PDF with a compressed version (~12 MB, down from ~21 MB). This resolves an unreported issue in v0.1.0: the original PDF exceeded jsDelivr's 20 MB per-file limit and returned 403 when fetched via the CDN. The compressed version is now under that limit and CDN-accessible. Content is unchanged — all 27 pages present, compressed via TinyWow.
+
 ## v0.1.0 — 2026-04-22
 
 Initial release. Migrated Keveko brand assets from local source folders into this public repo, served via jsDelivr.
